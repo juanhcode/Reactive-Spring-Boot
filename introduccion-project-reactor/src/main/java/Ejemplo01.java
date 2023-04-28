@@ -22,6 +22,7 @@ public class Ejemplo01 {
         mono.subscribe(elementosMono::add);
         flux.subscribe(elementosFLux::add);
 
+
         //Visualizar Flujo de datos
         System.out.println(elementosMono);
         System.out.println(elementosFLux);
