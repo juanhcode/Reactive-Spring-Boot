@@ -43,11 +43,9 @@
 		<module>introduccion-project-reactor</module>
 		<module>pruebas-step-verifier</module>
 		<module>pruebas-servicios-step-verifier</module>
-		<!--
-
-
 		<module>contrapresion-ejemplos</module>
 		<module>transformacion-combinacion-flujos</module>
+		<!--
 		<module>manejo-excepciones</module>
 		<module>ejemplo-thymeleaf-reactivo</module>
 		<module>hot-cold-publishers</module>
